@@ -35,7 +35,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'cz=&%f*9(d*zo$_55p=(p)(eki#p$pb^0159-)8k^6$9c3l&_b'
+SECRET_KEY = 'cz=&%***************'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
@@ -191,7 +191,7 @@ EMAIL_HOST_PASSWORD = '*******'
 
 # AWS_ACCESS_KEY_ID = '*******'
 # AWS_SECRET_ACCESS_KEY = '*******'
-# AWS_STORAGE_BUCKET_NAME = 'chief-akash-crm1'
+# AWS_STORAGE_BUCKET_NAME = 'chief****'
 # AWS_S3_FILE_OVERWRITE = False
 # AWS_DEFAULT_ACL = None
 # DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
